@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    color: black;
+}
+
+div {
+    width: 100%;
+    text-align: center; /* Alinha o conteúdo à direita */
+    margin-bottom: 10px;
+}
+
+.mover_esquerda {
+    transform: translate(-23px);
+}
+
+.mover_esquerda2 {
+    transform: translate(-40px);
+}
+.mover_direita {
+    transform: translate(125px);
+}
+
+.mover_direita2{
+    transform: translate(83px)
+}
